@@ -1,0 +1,10 @@
+C:\Users\Zander\source\repos\Hello_cs_code\Hello_cs_code\bin\Debug\Hello_cs_code.exe.config
+C:\Users\Zander\source\repos\Hello_cs_code\Hello_cs_code\bin\Debug\Hello_cs_code.exe
+C:\Users\Zander\source\repos\Hello_cs_code\Hello_cs_code\bin\Debug\Hello_cs_code.pdb
+C:\Users\Zander\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.csprojAssemblyReference.cache
+C:\Users\Zander\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.Form1.resources
+C:\Users\Zander\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.Properties.Resources.resources
+C:\Users\Zander\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.csproj.GenerateResource.cache
+C:\Users\Zander\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.csproj.CoreCompileInputs.cache
+C:\Users\Zander\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.exe
+C:\Users\Zander\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.pdb
